@@ -1,3 +1,5 @@
 beautifulsoup4==4.11.2
 html5lib==1.1
 lxml==4.9.2
+requests-html==0.10.0
+translators==5.5.6
